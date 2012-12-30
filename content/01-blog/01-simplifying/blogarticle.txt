@@ -5,6 +5,7 @@ Date: 30.12.2011
 Text:
 
 A while ago I wrote this:
+
 "I am going to redesign my blog. Again. Why? Because I am absolutely not happy with the current one. Mostly because it’s powered by Wordpress which adds a lot of unnecessary complexity. I finally want to get rid of this."
 
 Today it's finally happening. I am going to replace everything that has been here for years with a new
