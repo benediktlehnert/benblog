@@ -21,7 +21,14 @@
 </head>
 
 <body>
-
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
   <div class="color"></div>
 	<div class="container">
 		<h1 class="logo"><a href="<?php echo url() ?>"><?php echo html($site->title()) ?></a></h1>

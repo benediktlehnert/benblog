@@ -16,7 +16,7 @@ body {
 
 .container {
 	width: 600px;
-	margin-left: 100px;
+	margin-left: 200px;
 }
 
 .content  {
@@ -64,7 +64,7 @@ h2 a:hover {
 
 .blogarticle h2{
 	text-align: left;
-	margin-bottom: 18px;
+	margin-bottom: 8px;
 }
 
 .article h3 {
@@ -135,12 +135,16 @@ h2 a:hover {
 	text-decoration: none;
 }
 
+/* .social {
+	border-top: 1px solid #d7dee3 !important;
+} */
+
 .pagination {
 	font-size: 30px;
 	font-style: italic;
 	color: #9da4a9;
 	text-align: center;
-	margin-top: -10px;
+	margin-top: -20px;
 	margin-bottom: 100px;
 }
 
