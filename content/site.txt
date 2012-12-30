@@ -1,0 +1,10 @@
+Title: BenBlog.
+----
+Author: Benedikt Lehert
+----
+Description: Hi, my name is Ben.
+I love making things simple. I am the CMO of 6Wunderkinder where I lead talented product design and marketing teams. I live in Berlin
+----
+Keywords: kirby, cms, kirbycms, php, filesystem
+----
+Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Bastian Allgeier)
