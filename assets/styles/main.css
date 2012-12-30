@@ -107,6 +107,16 @@ h3 {
 	margin-bottom: 30px;
 }
 
+.article a, a:visited {
+	color: #a3907c;
+	text-decoration: none;
+}
+
+.article a:hover {
+	color: #354047;
+	text-decoration: none;
+}
+
 .pagination {
 	font-size: 30px;
 	font-style: italic;
