@@ -21,7 +21,7 @@ http://getkirby.com/license
 
 */
 
-c::set('license', 'your license key');
+c::set('license', '64d45af2931c9d29bd37af2e8a320e27');
 
 
 /*
