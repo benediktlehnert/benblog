@@ -1,0 +1,35 @@
+Title: The future of Apple.
+----
+Date: 30.12.2011
+----
+Text:
+The articles a lot of journalists write these days feel as if they are just waiting for the next story about how Apple and especially Tim Cook fucks up after Steve Jobs is no longer leading Apple. Page impressions seem to be more important than serious research or even strategic thinking.
+
+Facts: (link: http://www.apple.com/pr/library/2012/10/25Apple-Reports-Fourth-Quarter-Results.html text: Apple is healthy) and seems to stay healthy for the predictable future. Their stock price makes them the most valuable company in the world, they have so much cash in the bank that they could buy a lot of the dominating companies right away and the number of products they sell increases month over month.
+
+Much more interesting is what Apple (under Tim Cook) announced yesterday: (link: http://www.apple.com/pr/library/2012/10/29Apple-Announces-Changes-to-Increase-Collaboration-Across-Hardware-Software-Services.html text: massive changes in the leadership team).
+
+Disclaimer:
+Everything you will read below are assumptions. We’ll see if I’m right or wrong.
+
+Apple shaped most of the digital infrastructure that surrounds us in our daily life. Even if you don’t use Apple devices you can’t deny the massive influence their work had on the products a lot of other companies bring to market. There was a Mac way before there was an internet browser, or a search engine or an mp3 player or even a social network.
+
+Steve Jobs understood at a very young age that whenever you build a product, it’s essential to consider (and control) the full customer experience. Designing a product means serving a need and solving a problem for people at a whole. Jobs didn’t invent this. But he was highly sensitive and understood that if you manage to deliver a delightful experience, customers are more likely to come back, recommend your product and are willing to pay more. Means: you win more customers and can earn more money. It’s as simple and fundamental as that. A principle that would become essential for the digital age.
+
+Jobs’ achievement was that he implemented this fundamental principle deeply in Apple’s DNA and brought it to a brand-new, emerging industry: personal computing. As personal computers started to evolve, Jobs envisioned the huge impact those machines would have on society and decided to build computers for everybody. Machines that help us do our work, achieve goals and connect with other people. At that point the industrial design of computers was kind of not existing. Jobs understood that if he manages to hide the circuit boards and make the computer feel intuitive or even “human”, it would be more likely that normal people would use a computer.
+
+Jobs also believed that if you build software you have to build your own hardware. Remember: it’s about the full experience, not only a part. Only if hardware and software go hand in hand it feels seamless and consistant. The first Macintosh has been a breakthrough in both personal computing and design.
+
+A lot happened since then. Jobs was fired, came back in 1997 and revealed a new business strategy in 2001: the digital hub. Since the internet was starting to become the infrastructure that would power our daily life, this was a huge strategic move.
+
+The man who had a great influence in realizing this strategy is Jonathan Ive, Apple’s SVP Industrial Design. With the creation of the first iMac he introduced a new design ethos that was a representation of Steve’s deepest values.
+
+In 2008, after the first keynote with Jony Ive on stage, I wrote a short blog post (in German) why he will be the future of Apple. Today this seems more up to date than ever. Jony has the same fundamental understanding of the human nature that Jobs had. He managed to express Apple’s values in their hardware products since the first iMac. Now, since Apple’s best selling computer is the iPad and the iPhone, the software is becoming an even more important part in the user experience. Siri is the new interface and iCloud the computing platform of the future. Jony’s job will be to create a new generation of products and interfaces that create the same emotional connection and feel as human as the Mac. He is more than qualified to do this job.
+
+One more thing. About the devision Bob Mansfield is going to lead: Technologies. I think this is quite an interesting move and it’s the start of making Apple more and more independent from key suppliers. Tim Cook was the one who made Apple a highly profitable company, because he restructured the whole supply chain and suppliers network.
+
+I strongly believe that the strategy behind the new devision is to create new key components for upcoming devices that give Apple the possibility to iterate faster, offering better performance at a better price and increasing margins at the same time. Since they have enough money in the bank to manage the production of new chips, displays and whatever might be important in the future, this could be a huge competitive advantage for Apple.
+
+OS X and iOS will melt together in the not so far away future and build the core of Apple’s products. The more powerful the A-Chip series become the more likely it is that they will replace chips in Apple’s classical computer line-up. Look at the iMac or better the Mac mini, their main boards are already far away from what we call a desktop computer. Once Apple’s own chips are powerful enough for the task we (still) perform on our desktops, iOS will be the operating system of all Apple products. Every device will be “just” a client for the smart iCloud services.
+
+Yes, Apple will be a different company without Steve Jobs, but their DNA today is so much more than just Jobs. Apple is an experience company. They will explore and disrupt new markets, but their core product will always be the same: the simplest and most delightful interaction between humans and computers.----

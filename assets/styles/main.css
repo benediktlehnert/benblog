@@ -67,11 +67,12 @@ h2 a:hover {
 	margin-bottom: 18px;
 }
 
-h3 {
+.article h3 {
 	font-size: 28px;
 	font-style: italic;
+	font-weight: 400;
 	color: #a3907c;
-	margin-bottom: 4px;
+	margin-bottom: 3px;
 }
 
 .content a, a:visited {

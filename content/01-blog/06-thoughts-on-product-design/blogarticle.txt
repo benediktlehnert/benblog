@@ -1,0 +1,48 @@
+Title: Thoughts on product design processes.
+----
+Date: 30.12.2011
+----
+Text:
+In a startup, your product is everything. It is why you start your endeavor. It defines your culture, the way you work and it builds your brand — especially in the early days. You hire people based on your product vision and you find costumers that understand why they need your product and pay you money for using it.
+
+The process how you design doesn’t only shape your product, but also your company’s culture and the way you communicate. Now, have you ever thought that finding the right design process should be the number one priority building up your company?
+
+You start a company for several reasons: To solve a problem, to earn money and (hopefully) to contribute to something bigger - like improving people’s lives or moving society forward. At least this is the kind of company/product I am talking about. I do not believe in a different model.
+
+### Be clear in your “why”.
+
+A lot of people I meet know what they want to build, but only a few are able to articulate clearly why the want to build it. Why do you want to design a new product? What is it that drives you? Why does the world need your product? Why do you do what you are doing? And why do you wake up in the morning?
+Quite philosophical, hum?
+
+### Define what you want to create.
+
+What do you want to build? It sounds so simple and there are hundreds of books and articles on the web that tell you how to define your MVP (minimal viable product). But how do you decide what goes in and what stays out?
+
+I found that at this point it is essential to know your why and have the right people around you. As soon as you have an idea for a feature ask yourself if and how this feature would contribute to your why. Would your product be less good if you leave it out? Could you leave something else out when you build the new feature in? Would your product become any better? Could you build it in later? (Btw. in the latter case you should always go for “later”)
+
+### Create a process that aims to leave stuff out.
+
+Most of the people out there want to add things in order to make a product “better”, but you should optimize for simplicity. Your users love simplicity, it’s part of the human nature. It will make your product better and more successful. Complexity is created out of fear. Fear of judgement from the outside world (or worse: people you admire), fear of competitors that could release something better and fear of making a wrong the decision. (Note to self: I’ll have to write a separate piece on “simplicity” later)
+
+### Build a culture of trust.
+
+I learned that an essential part of a great design process is to create a culture of trust. Great ideas start as fragile thoughts. I experienced a lot of situations where great ideas have been killed out of fear. Show and teach your team how to embrace failure. That will set their potential free and let them grow their talent day by day, because they don’t have to afraid to get judged by the mistakes they make. Once you understand that failure is an essential part of searching for great results, you’ll loose fear and gain confidence. I don’t mean you should sacrifice your demand for high quality and great results. “Good enough” isn’t the goal. You’ll get to great results much easier when you manage to build an environment of real trust within your company.
+
+You should invest a lot of your time in finding the right people. Find people that share the same values and are excellent in what the do, so that you can trust their judgement on the journey to the release of your product. I personally don’t want to question and doubt every decision they make, because I would slow down the process, create mediocre work and frustrate my team. When failure happens, you or a teammate made a wrong decision. That’s life, look at it as a part of the process. Don’t let it take you to a point where you want to control and add complexity to your process.
+
+### Understand that perfection is the wrong goal.
+
+I had to change my mind about this some years ago. I realized that there is no such point in time called perfection. Accept that you have to ship your product at a certain point. So, don’t loose yourself in reiterating the same detail over and over again. Don’t get me wrong, iteration and refinement is an important part of a great design process and high quality is mandatory, but at the end of the day the goal is to ship a product.
+
+Here’s how I think about perfection today: Don’t think you are going to release a perfect product. Do your very best and aim to release the first version of your product. Know that you will refine and improve it over time. Know what features and improvements will make it into the next version. And start working on then new version. Make it better.
+
+### Study human nature.
+
+I worked with different types of people so far. Often we tend to over think the problems we face. I learned that when I follow my intuition or the intuition of people I trust it will lead to better results. I started to study and understand how people work, read a lot about how human behavior and the brain works. Most of our human behavior is influenced by mechanisms that are as old as the human race. Most of them are subconscious. So build for the heart, not only for the brain. Take science into consideration wherever it is helpful and leave it out where it’s getting in your way to optimize for greatness.
+
+Remember that you design for people. So, keep an eye on things that delight people, details that make them smile and features that make their lives better. It’s not about about your ego, it’s about your user’s ego. Our users don’t care about the incredible hours we worked to get a piece of code working or a hardware running or an interface design right. What they care about is, if we manage to give them a great product that solves a problem in their life.
+
+### One final thought.
+
+A design process is not linear. Therefore, I think it’s crucial that you know your goals and define them very well. Accept changes and respect unpredictable events. In the end, the perfect design process allows you to forget about the process and focus on creating a great product, together with the smartest people you can find. I truly believe that users feel how a product has been created.
+----

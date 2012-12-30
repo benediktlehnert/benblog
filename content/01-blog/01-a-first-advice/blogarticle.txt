@@ -1,0 +1,52 @@
+Title: A first advice.
+----
+Date: 30.12.2011
+----
+Text:
+Every time when I start writing parts of my new “Essentials” series, there is one topic coming to my mind which is something like the fundament of everything I might have to say.
+It’s something that divides the crowd of upcoming entrepreneurs and founders. And that’s the “Why” behind a startups. The reason why people start a new company. Their motivation.
+
+There are the ones that build something, because they see a chance of having a big exit in a very short period of time. You can do this by copying existing business models or product concepts or you develop a product for a fast-growing market. If you execute right, it will lead you to a big financial success and a lot of fame. That’s nothing bad to me. It's just a question of motivation. Classic e-commerce or “yet another social sh..” models are perfect examples. In the end, most of those products sell false values to people and waste their time.
+
+But there are also the ones who build things, because they truly believe that they can change something for the better. And I don’t mean this in a “we are going to reinvent x” or “we are the next revolutionary x”.
+What I mean is true innovation. Innovation that helps people.
+There are lots of people out there who experience problems with existing products and services that surround them every day. In small and large scale. In Europe, the US or Africa.
+
+### Education
+At least since the introduction of the iPad people start to recognize that there is a change happening. Computers don’t look and feel like computers anymore. We can carry them where ever we go and thanks to apps there are almost infinite possibilities to use them.
+
+So, why not take advantage of this movement that is much more than a trend?
+Why not redesign our classrooms, methods and tools to teach people all over the place? The experience could be so much better. Education could be everywhere, not only in schools and universities. The the result of having much more fun will be better education in the end.
+
+Develop new products for schoolbooks, educational methods based on digital services and online communication. A clickable PDF-file isn’t an innovation. That’s simply a relict of the 20th century. Even if the page-flip is animated.
+
+### Healthcare
+For decades healthcare has been a secret place for most of us. Doctors have been experts that we don’t question and whose advice was a given fact. But society, people (users) change these days. And in a lot of healthcare areas there hasn’t been a real innovation for more than 20 years.
+
+Now, healthcare could become so much more personal. User-centered. Quantified self movement etc. are just a beginning. When you look at the Valley today, there is a new movement started which creates healthcare startups that try to build real innovation there. Small tools and software which serve the patient first. Services that connect patients and doctors all over the world in order to find better results and better treatments.
+
+Using the tools we have today accelerates research, because researches can connect worldwide like in HIV vaccine research etc. We are able to educate people in Africa so that they can take blood samples or give drug treatments to their people. All we need is some tablet hardware and well-designed software.
+
+### Public Service
+I guess it isn’t only Germany where people “suffer” from traditional bureaucratic process in public service. Why? Well, because nothing changend for ages. In most of the cases we are using pen and paper to fill out horribly designed forms that we don’t understand. Computers are the enemy.
+
+And when it comes to “service” nobody has any clue why they should focus on the people and not on the existing “process”. Designing new “human” processes by putting the “user” into the center of our thinking and doing could make public service so much more efficient, people happier and could save a lot of money in the end.
+
+### Digital Living
+We live in a digital world. Digital is not a medium, it is the new infrastructure. Even if it is still hard to have a broadband internet connection in every household, this is a fact.
+
+In the future everything around our apartments or houses will be connected. And we can build services and products around that. Products in the large scale (like intelligent houses for example), but also smaller products like the guys from nest did. Hardware and software products that improve the daily life of millions of people. Products that maybe bring the digital change to countries like India, Africa or Brazil, too.
+
+### Sounds nice what you wrote, but that won’t work!
+
+Well, I don’t think so. The markets mentioned above are huge. And you don’t have to reinvent everything. Pick a segment where you could start, find the problems and try to come of with products and services that solve them.
+
+One of the fundaments of design thinking is education and enabling. And when you build a business like this you have to educate people. Showing them the tools to create solutions and the methods to build products. Not only the people inside your team, but also the people your work with (e.g. doctors and patients when you go into healthcare). Education leads to understanding and enabling leads to making ideas happen.
+
+### My advice to founders, creatives, doers and makers?
+
+Please don’t build the next “social-waste-of-time-shit…”!
+Even if it sounds great to have a huge exit within the first 12-24 months.
+Build your business around something that really matters. Something that helps people everyday. Use your energy, your talent and your creativity to build something relevant. Because in the end this is the reason why users want to pay you. And don’t limit your self to digital products. Connect the digital and physical world. That’s the future anyways.
+There are millions of opportunities out there!
+----

@@ -1,0 +1,28 @@
+Title: Start a technology company, hire a designer.
+----
+Date: 30.12.2011
+----
+Text:
+It’s not a secret: (link: http://www.forbes.com/sites/ciocentral/2012/02/23/the-war-for-tech-talent-genius-is-not-enough/ text: The war for talent started). Not only in (link: http://www.forbes.com/sites/nicoleperlroth/2011/06/07/winners-and-losers-in-silicon-valleys-war-for-talent/ text: Silicon Valley), but all (link: http://www.forbes.com/sites/sylviavorhausersmith/2012/09/18/the-global-war-for-talent-goes-local-in-china/ text: around the world) it’s getting harder and harder to find excellent people that are able to build great software and hardware products. HR experts of all big companies and headhunters are searching for the talent in every country, making ridiculously high offers in order to get the best people.
+
+It all started some years ago when the industry recognized that there’s an enormous need for engineers in all fields around the digital economy. Engineers, no matter what kind of expertise, were treated like rockstars and paid a fortune in order to join teams at Google, Facebook, Microsoft or other big corporations. And it’s still going on in the tech hubs around the globe.
+
+(link: http://www.forbes.com/sites/gyro/2012/05/03/welcome-to-the-era-of-design/ text: But things are changing). Suddenly, everybody seems to recognize the importance of design. Designers are treated more and more seriously when it comes to building up tech teams. Today I believe hiring great designers should be the number one goal for every HR department out there.
+
+Why is that? Well, we reached a level where technology starts to get out of the way. For the first time in history we are holding powerful machines in our hands, that don’t feel like rocket science – even though the chips inside hold more computing power than the rockets that flew to the moon. What’s more, with the introduction of multi touch technology we are able to literally touch the digital content we produce. And enormous psychological and emotional breakthrough in user interface.
+
+With all the wireless connections we use, things start to interact in a way that feels like magic. In a lot of cases we forget how the world around us felt 10-20 years ago, when we had to use modems to get 10 minutes of internet connection. And 10-20 years from today we won’t be able to imagine that there was a world without devices and services that know our habits and react automatically to our behavior. What counts is the experience, nobody will care about technology in the first place.
+
+So, while technology will get out of the way the more sophisticated it becomes, we are still human beings. And in the end we don’t want to care about the highly complex hardware or software algorithms that power our daily lives. Instead we care about simplicity, ease-of-use and the experience in the moment we use products or services.
+
+That’s where designers come into play. And by designers I don’t mean a lot of the young boys that are highly skilled in producing fancy dribbble shots. – Don’t get me wrong, their photoshop talent is phantastic, but they lack experience in building a product.
+
+Designers put the human being into the center of their work. They are focused on solving problems. They are bridging professions and fields of expertise. Everything they do should make a product more useful or an experience more unique. Design is not art, but it is directly connected to technology.
+
+A designer analyzes the needs of users through studies, numbers and research. A designer understands the essence of your product and transforms these insights into a truly human experience empowered by the technology engineers develop. A designer understands that good design is not about design or engineering, but only about the user’s experience in the moment of use.
+
+You don’t have to hold a masters degree to be a great designer, but you have to think, live and breath what I have just written above. Whoever wants to build a technology company has to understand that it all starts with design.
+
+P.S
+That’s why you should pay your designers the same high salaries as your engineers.
+----
