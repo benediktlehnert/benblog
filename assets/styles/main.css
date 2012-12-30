@@ -1,0 +1,120 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    font-family: 'Crimson Text', serif;
+    color: #354047;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    background-color: #fdfdfd;
+}
+
+.color {
+	width: 100%;
+	height: 5px;
+	background-color: #a3907c;
+}
+
+.container {
+	width: 600px;
+	margin-left: 150px;
+}
+
+h1.logo, h1.logo a {
+	font-size: 36px;
+	font-weight: 400;
+	color: #354047;
+	margin-bottom: 260px;
+	padding-top: 40px;
+	text-decoration: none;
+}
+
+h2 {
+	font-size: 40px;
+	line-height: 1em;
+	font-weight: 400;
+	font-style: italic;
+	color: #a3907c;
+	margin-bottom: 8px;
+	text-decoration: none;
+}
+
+h2 a, a:visited {
+	color: #a3907c;
+	text-decoration: none;
+}
+
+h2 a:hover {
+	color: #354047;
+	text-decoration: none;
+}
+
+.blogarticle h2{
+	text-align: center;
+	margin-bottom: 18px;
+}
+
+h3 {
+	font-size: 28px;
+	font-style: italic;
+	color: #a3907c;
+	margin-bottom: 4px;
+}
+
+::selection {
+	background: #faca57; /* Safari */
+	}
+::-moz-selection {
+	background: #faca57; /* Firefox */
+}
+
+.post {
+	border-bottom: 1px solid #d7dee3;
+	padding-bottom: 20px;
+	margin-bottom: 54px;
+
+}
+
+.readmore {
+  color: #9da4a9;
+  text-decoration: none;
+}
+
+.artover {
+	margin-bottom: 0px;
+}
+
+.article {
+	margin-bottom: 54px;
+}
+
+.article strong {
+	font-size: 26px;
+	font-weight: 400;
+	line-height: 38px;
+}
+
+.article p{
+	margin-bottom: 30px;
+}
+
+.pagination {
+	font-size: 30px;
+	font-style: italic;
+	color: #9da4a9;
+	text-align: center;
+	margin-top: -10px;
+	margin-bottom: 100px;
+}
+  .pagination a {
+    text-decoration: none;
+  }
