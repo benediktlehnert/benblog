@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
-<?php snippet('menu') ?>
-<?php snippet('submenu') ?>
+<!-- <?php snippet('menu') ?>
+<?php snippet('submenu') ?> -->
 
 <section class="content">
 
@@ -11,4 +11,4 @@
 
 </section>
 
-<?php snippet('footer') ?>
+<!-- <?php snippet('footer') ?> -->
