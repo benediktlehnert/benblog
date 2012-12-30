@@ -38,6 +38,17 @@ h1.logo, h1.logo a {
 	text-decoration: none;
 }
 
+.content h1 {
+	font-size: 40px;
+	line-height: 1em;
+	font-weight: 400;
+	font-style: italic;
+	text-align: center;
+	color: #a3907c;
+	margin-bottom: 8px;
+	text-decoration: none;
+}
+
 h2 {
 	font-size: 40px;
 	line-height: 1em;
@@ -69,6 +80,11 @@ h3 {
 	color: #a3907c;
 	margin-bottom: 4px;
 }
+
+.content a, a:visited {
+	color: #a3907c;
+	text-decoration: none;
+} 
 
 ::selection {
 	background: #faca57; /* Safari */
@@ -125,6 +141,7 @@ h3 {
 	margin-top: -10px;
 	margin-bottom: 100px;
 }
-  .pagination a {
+
+.pagination a {
     text-decoration: none;
   }
