@@ -24,7 +24,7 @@ body {
 }
 
 .content article p {
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 }
 
 img {
@@ -49,6 +49,24 @@ h1.logo, h1.logo a {
 	font-weight: 400;
 	color: #354047;
 	padding-top: 40px;
+	text-decoration: none;
+}
+
+.nav {
+	margin-top: -33px;
+	float: right;	
+}
+
+.nav h1 a, a:visited{
+	font-size: 20px;
+	font-weight: 400;
+	font-style: normal;
+	color: #a3907c;
+	text-decoration: none;
+}
+
+.nav h1 a:hover {
+	color: #354047;
 	text-decoration: none;
 }
 
@@ -103,10 +121,12 @@ h2 a:hover {
 
 ::selection {
 	/* Safari */
-	background-color: #b2c9d6;
+	color: #354047;
+	background-color: #cfdee6;
  }
 ::-moz-selection {
-	background: #b2c9d6; /* Firefox */
+	color: #354047;
+	background: #cfdee6; /* Firefox */
 }
 
 .post {
@@ -143,7 +163,7 @@ h2 a:hover {
 }
 
 .article p{
-	margin-bottom: 30px;
+	margin-bottom: 30px !important;
 }
 
 .article a, a:visited {
@@ -199,6 +219,25 @@ h2 a:hover {
   	
   	.h1.logo {
     	margin: 20px !important;
+  	}
+  	
+  	.nav {
+  		margin-top: -24px;
+  		margin-bottom: 35px;
+  		float: right;	
+  	}
+  	
+  	.nav h1 a, a:visited{
+  		font-size: 20px;
+  		font-weight: 400;
+  		font-style: normal;
+  		color: #a3907c;
+  		text-decoration: none;
+  	}
+  	
+  	.nav h1 a:hover {
+  		color: #354047;
+  		text-decoration: none;
   	}
   	
   	.content h1 {

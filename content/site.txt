@@ -1,9 +1,10 @@
-Title: BenBlog.
+Title: Benedikt Lehnert
 ----
-Author: Benedikt Lehert
+Author: Benedikt Lehnert
 ----
-Description: Hi, my name is Ben.
-I love making things simple. I am the CMO of 6Wunderkinder where I lead talented product design and marketing teams. I live in Berlin
+Description: Hi, my name is Ben and I love making things simple. I design to improve lives. I am working with the amazing team at 6Wunderkinder in Berlin where I am in charge of product design and communications. I love photography in black and white, the sound of water and the smell of fabric softener. As a hobby, I co-created Watches for iPad.
+
+Follow me on Twitter, drop me a line or let’s meet for a coffee.
 ----
 Keywords: kirby, cms, kirbycms, php, filesystem
 ----

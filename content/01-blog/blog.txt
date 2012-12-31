@@ -1,4 +1,4 @@
-Title: Blog
+Title: BenBlog.
 ----
-Text: This is a nice Demo Blog.
+Text: This is Ben’s Blog.
 ----
