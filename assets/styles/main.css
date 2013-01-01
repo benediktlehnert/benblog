@@ -1,3 +1,16 @@
+@font-face {
+font-family: entypo;
+src: url('entypo.ttf'),
+     url('entypo.eot'); /* IE9 */
+}
+
+@font-face {
+font-family: entypo-social;
+src: url('entypo-social.ttf'),
+     url('entypo-social.eot'); /* IE9 */
+}
+
+
 body {
     font-family: 'Crimson Text', Times, 'Times New Roman', Georgia, serif;
     color: #354047;
@@ -184,6 +197,26 @@ h2 a:hover {
 	margin-top: 10px;
 }
 
+.fb-like {
+	margin-top: 8px;
+	margin-bottom: 20px;
+}
+
+.share {
+	font-weight: 400;
+	font-style: italic;
+}
+
+.picto {
+	font-family: entypo;
+	font-style: normal;
+}
+
+.picto-social {
+	font-family: entypo-social;
+	font-style: normal;
+}
+
 .pagination {
 	font-size: 30px;
 	font-style: italic;
@@ -331,6 +364,11 @@ h2 a:hover {
     
     .article p{
     	margin-bottom: 30px !important;
+    }
+    
+    .picto {
+    	font-family: entypo !important;
+    	font-style: normal;
     }
     
     .pagination {

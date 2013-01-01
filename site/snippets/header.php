@@ -36,3 +36,4 @@
   <div class="color"></div>
 	<div class="container">
 		<h1 class="logo"><a href="<?php echo url() ?>"><?php echo html($site->title()) ?></a></h1>
+		<div class="nav"><h1><a href="http://www.benedikt-lehnert.de/about">→ About</a></h1></div>
