@@ -36,4 +36,5 @@
   <div class="color"></div>
 	<div class="container">
 		<h1 class="logo"><a href="<?php echo url() ?>"><?php echo html($site->title()) ?></a></h1>
+		<div class="nav"><h1><a href="http://feeds.feedburner.com/blehnert/benblog" title="Subscribe to my feed" rel="alternate" type="application/rss+xml">→ Subscribe</a></h1></div>
 		<div class="nav"><h1><a href="http://www.benedikt-lehnert.de/about">→ About</a></h1></div>
