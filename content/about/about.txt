@@ -1,4 +1,4 @@
-Title: Hello,
+Title: Hi,
 ----
 Text: my name is (link: http://de.linkedin.com/in/benediktlehnert/en text: Ben) and I love making things simple. I design to improve lives. I am working with the amazing team at (link: http://www.6wunderkinder.com text: 6Wunderkinder) in Berlin where I am in charge of product design and communications. I love photography in black and white, the sound of water and the smell of fabric softener. As a hobby, I co-created (link: http://www.getwatchesapp.com text: Watches for iPad).
 Follow me on (link: http://www.twitter.com/blehnert text: Twitter), (email: mail@benedikt-lehnert.de text: drop me a line) or let’s meet for a coffee.

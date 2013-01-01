@@ -254,6 +254,32 @@ h2 a:hover {
 .pagination a {
     text-decoration: none;
   }
+  
+.contact {
+	border-top: 1px solid #d7dee3;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	padding-top: 15px;
+	text-align: center;
+}
+
+.contact ul, li {
+	display: inline;
+	list-style-type: none;
+	font-family: entypo;
+	font-style: normal;
+	font-size: 50px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.contact a {
+	color: #d7dee3;
+}
+
+.contact a:hover {
+	color: #354047;
+}
 
 
 /* Media Queries */
