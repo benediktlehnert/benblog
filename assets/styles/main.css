@@ -176,9 +176,13 @@ h2 a:hover {
 	text-decoration: none;
 }
 
-/* .social {
+.social {
 	border-top: 1px solid #d7dee3 !important;
-} */
+}
+
+.tweet {
+	margin-top: 10px;
+}
 
 .pagination {
 	font-size: 30px;
