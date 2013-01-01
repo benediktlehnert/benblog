@@ -10,10 +10,12 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link href="assets/favicon.ico" rel="shortcut icon">
+  	<link href="assets/favicon.ico" rel="shortcut icon">
 	<link href="assets/apple-touch-icon.png" rel="apple-touch-icon">
 
-  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,900' rel='stylesheet' type='text/css'>
+	<link rel="alternate" type="application/rss+xml" href="<?php echo url('blog/feed') ?>" title="<?php echo html($pages->find('blog/feed')->title()) ?>" />
+
+  	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,900' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic' rel='stylesheet' type='text/css'>
 
   <?php echo css('assets/styles/styles.css') ?>
