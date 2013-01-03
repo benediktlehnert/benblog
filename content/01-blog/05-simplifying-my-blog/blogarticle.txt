@@ -1,6 +1,6 @@
 Title: Simplifying my blog.
 ----
-Date: 30.12.2011
+Date: 30.12.2012
 ----
 Text:
 I am going to redesign my blog. Again. Why? I am absolutely not happy with the current one. Mostly because it’s powered by Wordpress which adds a lot of unnecessary complexity. I finally want to get rid of this. Second, my blog changed a lot over the last months and years. I guess it was due to the fact that I myself changed a lot and so did the purpose of the blog. It has been my “website”, a place where I showed some snippets of work, photo blog and a collection of thoughts.
