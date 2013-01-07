@@ -2,12 +2,14 @@
 font-family: entypo;
 src: url('entypo.ttf'),
      url('entypo.eot'); /* IE9 */
+-webkit-font-smoothing: antialiased; 
 }
 
 @font-face {
 font-family: entypo-social;
 src: url('entypo-social.ttf'),
      url('entypo-social.eot'); /* IE9 */
+-webkit-font-smoothing: antialiased; 
 }
 
 
@@ -18,6 +20,7 @@ body {
     font-size: 24px;
     line-height: 35px;
     background-color: #fdfdfd;
+    -webkit-font-smoothing: antialiased; 
 }
 
 .color {
@@ -304,6 +307,7 @@ h2 a:hover {
   	    font-size: 20px;
   	    line-height: 28px;
   	    background-color: #fdfdfd;
+  	    -webkit-font-smoothing: antialiased; 
   	}
   	
   	img.about {
