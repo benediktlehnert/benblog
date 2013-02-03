@@ -14,13 +14,10 @@ src: url('entypo-social.ttf'),
 
 
 body {
-    font-family: 'Crimson Text', Times, 'Times New Roman', Georgia, serif;
-    color: #354047;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 35px;
-    background-color: #fdfdfd;
-    -webkit-font-smoothing: antialiased; 
+	color: #22292e;
+	background-color: #fdfdfd;
+    -webkit-font-smoothing: antialiased;
+	font: 400 24px/35px 'Crimson Text', Times, 'Times New Roman', Georgia, serif;
 }
 
 .color {
