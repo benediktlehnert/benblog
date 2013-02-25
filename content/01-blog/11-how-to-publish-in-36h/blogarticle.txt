@@ -1,0 +1,52 @@
+Title: How we published a book in 36 hours
+----
+Date: 25.02.2013
+----
+Text:
+
+I read (link: http://www.daniellereid.com text: Danielle)’s wonderful novel about the nameless girl and her tumblr blog and I was amazed by the story she had created within only 24 hours. In fact, I was so excited that I proposed to make a book out of the manuscript. She agreed and we set ourselves the “random” goal to finish the project within 36 hours. That’s how it started.
+
+I began to work on what should become a printed booklet and an ebook on a Saturday—12 hours is not much time, especially if you have never published a book before. Due to the fact that time was quite limited, I reduced the number of design elements to only a few, in order to do them “right”. Here’s what I focused on while designing (link: http://www.ilikecats.net text: “I Like Cats”).
+
+#### Format
+Since the novel plays at the intersection of the digital and the analog world, I wanted to symbolize the “digital world” physically through the format of the (link: https://www.epubli.de/shop/buch/I-like-cats-Danielle-Reid-9783844248449/24648 text: printed book). So, I chose a paper format of 210 x 120 mm (1.75/1), imitating the aspect ration of an iPhone screen. Unfortunately, I needed to change to 148 x 105 mm due to the print on demand service we chose.
+
+#### Cover
+I started with the design of the *front and back cover* to define the character of the book. I wanted the color and typography to play with the interesting tension between innocence and sexuality that the story unfolds: Characters that slightly touch each other, or the fine white line on pink that leaves some room for interpretation. Fortunately, (link: http://www.bropix.de text: Dirk) allowed me to use his beautiful typeface “Nouvelle Vague Black” that gave the title a strong yet feminine character.
+The back cover though does not reveal a sexual element at all. With the quote from the novel it describes “her” love for cats in a very innocent way. 
+
+
+#### Typography
+From the beginning, I wanted the book to have a very simple, yet classical *typography*, using elements that can be found in old American novels. In order to have enough time left for some micro typography I decided to go with a very simple, yet slightly asymmetrical type area. I added pagination, title and author at the end of each page. After browsing through some old books I eventually picked Caslon (more specifically Adobe Caslon Pro) as the main typeface for the book. This wonderful classy font has everything it needs to create a very legible text. I played around with font sizes and line height, but ended up with a very simple ratio of 10pt/14pt (1/1.4). 
+
+I only picked two additional *typographic elements* for the book in order to keep it simple and execute fast: first line indent and m-dashes. The indention allows the reader's eye to skip through paragraphs and I only used real spaces when the story “required” a break. Since I am in love with the m-dash, but it's not common in German/European typography, it was a great chance to use the very long m-dash in (link: http://www.ilikecats.net text: “I Like Cats”). Furthermore, Caslon italic was used to highlight spoken words and tumblr comments.
+
+#### InDesign
+I finished the preparation of my InDesign file within roughly two hours. Pasting the manuscript into the prepared document was an exciting moment. For the first time I got an idea of the full book. How many pages will it have? How does it look with the typography settings I made? Where do I need to adjust?
+
+I sent a first PDF file to Danielle to get her feedback and input. Luckily, she liked it. So, while I was doing some research about which *publishing or book on demand service* we could use, Danielle went through the novel again and made some improvements to the story.
+
+#### Book on demand services
+In the meantime—thanks to (link: http://www.meconomy.de text: Markus) and (link: https://twitter.com/albersmark text: Twitter)—I got in touch with Max who (on a Sunday) introduced us to the publishing service (link: http://www.epubli.de text: epubli.de) he is working for. With their help we would be able to offer “I Like Cats” as a *beautifully printed booklet* and ebook (PDF and ePub) at the same time without high costs. What's more, they even brought the book to (link: http://www.amazon.de/I-like-cats-ebook/dp/B00BEJISAK/ref=sr_1_2?ie=UTF8&qid=1360668500&sr=8-2 text: Amazon), (link: https://play.google.com/store/books/details/Danielle_Reid_I_like_cats?id=RiALEC5v2ocC&feature=search_result#?t=W251bGwsMSwxLDEsImJvb2stUmlBTEVDNXYyb2NDIl0. text: Google Play), (link: https://itun.es/us/nJZ4J.l text: iTunes) and other international stores. The only thing we needed to do was to create an account and buy an ISBN number.
+
+Now, getting the book ready to print was easy, thanks to InDesign and the simple upload process on epubli.de. I split the book into two files (cover and pages), added the ISBN and the imprint, made sure that all sizes and margins where right and exported everything to PDF-X3. Done. Timing: eight hours in total. Pretty good so far.
+
+#### ePub & PDF
+Then the hard part started: eBook. Did you ever try to create an eBook? It’s a pain in the butt. The simplest part was to create a special (link: https://www.epubli.de/shop/buch/I-like-cats-Danielle-Reid/24649 text: PDF version) of the book for Kindle. I changed some margins and converted the colors of the title into a nicely looking grayscale version. Checked it on my Kindle two or three times. Done.
+
+Not so easy for the ePub. I don’t know if it’s only me, but ePub seems to be the most terrible format on the planet. It took me four hours to create something that worked more or less on every reader I had at hand (iBooks, Kindle, Readmill). 
+What was the problem? 
+
+#### A pain in the butt
+I thought creating an eBook would be easy due to the fact that there is an export option in InDesign. Well, InDesign is supposed to be a professional publishing software, but it seems like eBooks are not really important for Adobe. The exported file I got was useless.
+
+Long story short, I ended up creating an entirely new document in Apple Pages, stripping out all formats, indents, everything in order to create an ePub file that would work on most readers. I also found some article on the web and followed their advice to use as less formats and “design” as possible. Pretty sad, given that I invested some serious time in the beginning to do things right design-wise.
+
+After at least 30 test runs on my iPad and iPhone (in iBooks and Readmill) I finally got a file that worked. I uploaded it to epubli.de and was told by the system that it's not compliant with the “standard”... WTF! Went back to Pages and found that I included some meta information such as “genre” that seemed to be an Apple specific information. Removed it, compliance check done, uploaded. Published!
+
+#### Credits
+Initiated by a random tweet this project evolved into a great learning experience and was a lot of fun. I am proud that we made it within the 36 hours and I hope that a lot of people enjoy (link: http://www.ilikecats.net text: “I Like Cats”) as much as we did while we made it. 
+
+Thanks (link: http://www.daniellereid.com text: Danielle) that you let me design a book around your great novel!
+
+----
