@@ -4,9 +4,9 @@ Date: 20.03.2013
 ----
 Text:
 
-Messaging is an every day/hour/minute action for hundreds of millions of people. Still there's no sufficient solution on the market. As a user I want to communicate seamlessly with people I care about. Therefore the perfect messaging tool is everywhere I go, on my mobile, tablet, computer, car, kitchen... I want to message text, voice, photos, drawings, locations, files – basically every content that's relevant for me or that I want to share with others.
+Messaging is an every day/hour/minute action for hundreds of millions of people. Still there’s no sufficient solution on the market. As a user I want to communicate seamlessly with people I care about. Therefore the perfect messaging tool is everywhere I go, on my mobile, tablet, computer, car, kitchen... I want to message text, voice, photos, drawings, locations, files – basically every content that’s relevant for me or that I want to share with others.
 
-What I don't want: using a million different tools. I want one. I don't care about technologies or ecosystems or platforms or devices. I want to communicate. And I also don't care about inviting hundreds of people from my friends list on Facebook or any other social network.
+What I don’t want: using a million different tools. I want one. I don’t care about technologies or ecosystems or platforms or devices. I want to communicate. And I also don’t care about inviting hundreds of people from my friends list on Facebook or any other social network.
 
 Messaging is communication and therefore it is social (viral if you want) per definition. Messaging is also a tool. It needs to be useful and human. So, make it simple, accessible and emotionally rewarding for human beings. Only then people will stick and invite people they care about. I wish that one day, not too far from today, someone will build a delightful human messaging service.
 
