@@ -1,0 +1,17 @@
+Title: First principles reasoning
+----
+Date: 21.03.2013
+----
+Text:
+
+In (link: http://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity.html text: recent interviews) Elon Musk was asked about his “magic sauce” for creating innovations. His answer:
+
+> “Boil things down to their fundamental truths and reason up from there. As opposed to reasoning by analogy. We get through life usually by reasoning by analogy which essentially means copying what other people do with slight variations. But when you want to do something new, you have to apply the physics approach.”
+
+The truth of this statement stuck in my head for days. — This way of thinking does not only apply to the laws of physics, but also to the human nature and design. 
+
+There are fundamental parts of the human nature that don’t change. So, instead of designing by analogy, we should design by first principles. Boil things down to their fundamental truths of human nature (and behavior) and reason up from there. 
+
+I don’t know why, but I’ve always been curious about how people work. I read a lot of books, psychology studies and papers about brain science. All of this influences my design work more than any visual trend or product design. Because in the end, that’s what we as designers do: We create things for people to make their lives better.
+
+----
