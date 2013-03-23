@@ -1,0 +1,29 @@
+Title: Hidden champions of product design
+----
+Date: 23.03.2013
+----
+Text:
+
+Products are people too. Products influence people through emotions. We as designers define the experiential, social and other qualities of products every day. We create the shape, heart and soul of a product. Nowadays though, I see a lot of products that look and feel quite similar. They lack personality. 
+
+I found that there are things which can make a big difference in a product’s personality, but are often overlooked. Here’s my very incomplete list of the hidden champions of product design:
+
+1. Language
+A big chunk of information we consume is written text. 
+Finding the right tonality and voice for a product is crucial for a delightful user experience. 
+
+2. Typography
+Picking the right typeface is a challenge. A great typeface not only improves readability, but also serves as a visual element that defines the character of a product.
+
+3. Colors
+A color scheme sets the emotional stage for a product experience. Getting into the psychological effects of colors is important and picking colors for a product is not a matter of taste, but of purpose.
+
+4. Pictograms
+Pictograms, if chosen wisely, are a universal language. And they are processed much faster in the brain than language. Unique pictograms distinguish a product visually from others.
+
+5. Hierarchy
+Getting things into the right order is a tough job. One needs to make a clear decision what’s most important. Creating a clear hierarchy leads users subconsciously to the right interaction.
+
+Mastering each of the disciplines mentioned above takes time and needs constant training. Keeping these points in mind in daily business helps to stay on track and design products with more personality.
+
+----
