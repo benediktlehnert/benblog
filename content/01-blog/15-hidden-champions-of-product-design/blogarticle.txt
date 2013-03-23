@@ -13,13 +13,13 @@ A big chunk of information we consume is written text.
 Finding the right tonality and voice for a product is crucial for a delightful user experience. 
 
 2. Typography
-Picking the right typeface is a challenge. A great typeface not only improves readability, but also serves as a visual element that defines the character of a product.
+A great typeface not only improves readability, but also serves as a visual element that shapes the character of a product.
 
 3. Colors
-A color scheme sets the emotional stage for a product experience. Getting into the psychological effects of colors is important and picking colors for a product is not a matter of taste, but of purpose.
+A color scheme sets the emotional stage for a product experience. Knowing the psychological effects of colors helps picking the right ones for a product. It’s not a matter of taste, but of purpose.
 
 4. Pictograms
-Pictograms, if chosen wisely, are a universal language. And they are processed much faster in the brain than language. Unique pictograms distinguish a product visually from others.
+Pictograms, if chosen wisely, are a universal language. They are processed much faster in the brain than language. Unique pictograms distinguish a product visually from others.
 
 5. Hierarchy
 Getting things into the right order is a tough job. One needs to make a clear decision what’s most important. Creating a clear hierarchy leads users subconsciously to the right interaction.
