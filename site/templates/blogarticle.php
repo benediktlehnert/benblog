@@ -5,6 +5,8 @@
     <?php echo kirbytext($page->text()) ?>
 	
 	<div class="social">
+		<!-- <div class="fb-like"><a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+		<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script></div> -->
 		<div class="fb-like" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false" data-font="lucida grande"></div>
 		<!-- <div class="tweet">
 			<a href="https://twitter.com/share" class="twitter-share-button" data-text="I just read a blog post:" data-via="blehnert">Tweet</a>
