@@ -1,0 +1,17 @@
+Title: What UX really is
+----
+Date: 27.06.2013
+----
+Text:
+
+Often times, I see people confusing what UX really is. UX means user experience. In order to make it tangible for everyone, here is a detailed scenario of what great user experience feels like:
+ 
+Imagine you’re hungry and, instead of cooking your own food, you decide to go out for dinner. How do you choose the right restaurant? Well, you would just ask a few friends to recommend a nice, let’s say, sushi place. So, your friend sends you the recommendation and soon you land on the website of said restaurant. Looks nice, so let’s check the menu online and give them a call to reserve a table. What a friendly voice on the other side of the phone! After two minutes you’re given the nicest table with a wonderful view from the rooftop. That was quick and the guy on the phone made you smile due to his charming accent. Feels like they celebrate a special culture of excellent food there—you can’t wait to go. 
+ 
+Right on time you arrive at the sushi place. You can see the bright glowing logo sign on the wall that guides the way to the main entrance and you take the elevator to the top floor. The interior is fantastic, a mix of old traditional elements and classy modern furniture. You instantly think by yourself the food must be amazing here. The guy on the phone didn’t promise too much, the view from the table is stunning and even better than you imagined. Let’s have a look into the perfectly crafted menu, with its heavy natural paper, the embossed logo and this very clear modern typeface. You order one of the three course meals that already sound delicious. They serve you the fresh sushi on big white plates with beautifully and carefully laid out decorations around the plate. Not to mention, you are served in just the right timing in between the courses. 
+ 
+After you’ve finished the three main courses, the chef surprises his guests with a sweet little desert. The perfect ending to some evening hours that seemed to just fly by. You request the bill, that get’s handed to you in a small folder made of the same natural paper as the menu. Tip? Of course! This was a great dinner night. Everything single part of it fits the others, like pieces of a puzzle, which, in the end form a colorful picture. You’ll definitely recommend this impressive place to your friends. And one thing’s for sure, this was just the first of a lot of dinners to follow here. It’s on your way out that you recognize the piano player in the corner who had played these subtle jazz tunes during your entire evening at the restaurant. 
+
+*This is great user experience.*
+
+----
