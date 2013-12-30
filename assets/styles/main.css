@@ -17,7 +17,10 @@ body {
 	color: #22292e;
 	background-color: #fdfdfd;
     -webkit-font-smoothing: antialiased;
-	font: 400 24px/35px "adobe-garamond-pro", Times, 'Times New Roman', Georgia, serif;
+	font-family: "adobe-garamond-pro", Times, 'Times New Roman', Georgia, serif;
+	font-weight: regular;
+	font-size: 24px;
+	line-height: 1.4em;
 }
 
 .color {
@@ -67,9 +70,14 @@ img.about {
     border-radius: 6px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 400;
+	font-style: italic;
+}
+
 h1.logo, h1.logo a {
 	font-size: 36px;
-	font-weight: 400;
+	font-style: normal;
 	color: #354047;
 	padding-top: 40px;
 	text-decoration: none;
@@ -83,7 +91,6 @@ h1.logo, h1.logo a {
 
 .nav h1 a, a:visited{
 	font-size: 20px;
-	font-weight: 400;
 	font-style: normal;
 	color: #a3907c;
 	text-decoration: none;
@@ -96,22 +103,18 @@ h1.logo, h1.logo a {
 
 .content h1 {
 	font-size: 40px;
-	line-height: 1em;
-	font-weight: 400;
-	font-style: italic;
+	line-height: 1.05em;
 	text-align: center;
 	color: #a3907c;
-	margin-bottom: 8px;
+	margin-bottom: 10px;
 	text-decoration: none;
 }
 
 h2 {
 	font-size: 40px;
-	line-height: 1em;
-	font-weight: 400;
-	font-style: italic;
+	line-height: 1.05em;
 	color: #a3907c;
-	margin-bottom: 8px;
+	margin-bottom: 10px;
 	text-decoration: none;
 }
 
@@ -127,28 +130,23 @@ h2 a:hover {
 
 .blogarticle h2{
 	text-align: left;
-	margin-bottom: 8px;
+	margin-bottom: 10px;
 }
 
 .article h3 {
 	font-size: 28px;
-	font-style: italic;
-	font-weight: 400;
 	color: #a3907c;
 	margin-bottom: 3px;
 }
 
 .content article h4 {
 	font-size: 28px;
-	font-style: italic;
-	font-weight: 400;
 	margin-top: 54px;
+	margin-bottom: 3px;
 }
 
 .content article h5 {
 	font-size: 24px;
-	font-style: italic;
-	font-weight: 400;
 	color: #737f86;
 }
 
@@ -343,9 +341,7 @@ h2 a:hover {
   	
   	.content h1 {
   		font-size: 30px;
-  		line-height: 1em;
-  		font-weight: 400;
-  		font-style: italic;
+  		line-height: 1.1em;
   		color: #a3907c;
   		margin-bottom: 14px;
   		text-decoration: none;
@@ -366,9 +362,7 @@ h2 a:hover {
     
     h2 {
     	font-size: 30px;
-    	line-height: 1em;
-    	font-weight: 400;
-    	font-style: italic;
+    	line-height: 1.1em;
     	color: #a3907c;
     	margin-bottom: 14px;
     	text-decoration: none;
@@ -393,8 +387,6 @@ h2 a:hover {
     
     .article h3 {
     	font-size: 28px;
-    	font-style: italic;
-    	font-weight: 400;
     	color: #a3907c;
     	margin-bottom: 3px;
     }

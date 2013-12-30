@@ -11,7 +11,7 @@ www.benedikt-lehnert.de
 
 #### Credits
 Typefaces used on this site:
-Crimson Text by Sebastian Kosch – (link: http://www.google.com/webfonts/specimen/Crimson+Text text: Google Webfonts)
+Adobe Garamond Pro by Adobe
 Lovely Entypo pictograms by Daniel Bruce — (link: http://www.entypo.com text: www.entypo.com)
 
 #### Liability for Content
