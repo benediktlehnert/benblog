@@ -17,7 +17,7 @@ body {
 	color: #22292e;
 	background-color: #fdfdfd;
     -webkit-font-smoothing: antialiased;
-	font: 400 24px/35px 'Crimson Text', Times, 'Times New Roman', Georgia, serif;
+	font: 400 24px/35px "adobe-garamond-pro", Times, 'Times New Roman', Georgia, serif;
 }
 
 .color {
@@ -298,7 +298,7 @@ h2 a:hover {
 @media (max-width: 640px) and (min-width: 0px) {
 
   	body {
-  	    font-family: 'Crimson Text', Times, 'Times New Roman', Georgia, serif;
+  	    font-family: "adobe-garamond-pro", Times, 'Times New Roman', Georgia, serif;
   	    color: #354047;
   	    font-weight: 400;
   	    font-size: 20px;
