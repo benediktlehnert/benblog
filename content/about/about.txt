@@ -1,10 +1,14 @@
 Title: Hi,
 ----
-Text: my name is (link: http://de.linkedin.com/in/benediktlehnert/en text: Ben) and I love making things simple. I design to improve lives. I am the Chief Design Officer at (link: http://www.6wunderkinder.com text: 6Wunderkinder) in Berlin working on (link: http://www.wunderlist.com text: Wunderlist) with an amazingly talented design team. 
+Text: my name is (link: http://de.linkedin.com/in/benediktlehnert/en text: Ben) and I strive to make technology more human. I design to improve lives. I am the Chief Design Officer at (link: http://www.6wunderkinder.com text: 6Wunderkinder) in Berlin working on (link: http://www.wunderlist.com text: Wunderlist) with an amazingly talented design team.
 
-I collect pictures on (link: http://blehnert.tumblr.com text: Tumblr). I love photography in black and white, the sound of water and the smell of fabric softener. As a hobby, I co-created (link: http://www.getwatchesapp.com text: Watches for iPad). I am also running a small site called (link: http://designerrelationships.tumblr.com text: #DesignerRelationships) with my love (link: http://www.heyimcat.com text: Cat Noone).
+As a hobby, I co-created (link: http://www.getwatchesapp.com text: Watches for iPad). I am also running a small site called (link: http://designerrelationships.tumblr.com text: #DesignerRelationships) with my significant other and partner in crime (link: http://www.heyimcat.com text: Cat Noone). 
+
+I recently launched (link: http://www.typogui.de text: typogui.de)—A Pocket Guide to Master Every Day’s Typographic Adventures.
+
+I love handmade things, the sound of water, the smell of fabric softener and photography in black and white. I collect pictures on (link: http://blehnert.tumblr.com text: Tumblr).
 
 Follow me on (link: http://www.twitter.com/blehnert text: Twitter), (email: mail@benedikt-lehnert.de text: drop me a line) or let’s meet for a coffee.
 
-*This site even got a (link: http://www.benedikt-lehnert.de/imprint text: legal notice).*
+*This site even has a (link: http://www.benedikt-lehnert.de/imprint text: legal notice).*
 ----

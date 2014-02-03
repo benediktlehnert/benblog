@@ -1,0 +1,49 @@
+Title: Type, Face & Character—Why you’re wasting a lot of potential in your product
+----
+Date: 03.02.2014
+----
+Text:
+
+Typography is a design discipline that is categorized as either “elitist” or “boring” depending on where you’re coming from. It is a topic that everyone seems to be interested in, but when you look at how many people actually care about it in their daily business, it seems to be a minority topic.
+
+Typography is this weird field where you have a whole bunch of rules about how to set characters in a row, that haven’t really changed over the course of past centuries. Every designer reads and talks about the importance of typography, however, when it comes to product design—from software to hardware—the power of great typography is much too often ignored.
+
+Here’s how you can leverage your product experience by making typography an essential part of your design process.
+
+#### 1. Type, Face, Character
+A typeface is the only design element that stimulates both sides of the brain (the rational and the emotional side). It transfers information through our eyes to our brain. At the same time, a typeface sets the tonality of the text through its visual shape. The choice of typeface has an impact on both how we consume content and how we perceive it. It’s interesting, from all the design elements we use (Shape, Color, Space, etc) only in typography we find the words “type”, “face” and “character”.
+
+Especially since other visual design elements are getting more and more removed in the latest iterations of operating systems, it seems that color and especially typefaces are becoming increasingly important to differentiate a product in the market. Surprisingly enough that we see more and more products using skinny, live-less sans-serif typefaces, that show as much character as most models in current fashion ads.
+
+
+#### 2. Select the right typeface
+So, if you don’t want to end up with a product that looks, feels and talks like all the others, I want to encourage you to take the time and choose a typeface that fits the character of your product. Whether you are building a website, iOS or Android app or even hardware, your options are close to endless.
+
+Thanks to technology we can either select a variety of beautiful typefaces from the OS (iOS) or embed third-party typefaces (iOS & Android), or choose from millions of typefaces from various foundries (hardware).
+
+Selecting the right typeface for your product is based on several criteria:
+
+*a) Visual Character*
+When designing a product you have an idea of how it should “look and feel”. Every typeface has its own character due to the shape of its characters and the way they form words. Your job is to pick a typeface that fits and ideally amplifies the character of your product.
+
+*b) Legibility*
+As I said before, type transfers information from the object/the screen to our eyes then to the brain. In order to make this process as effortless as possible, you need to pick a typeface that is easy to read thanks to its contrast, spacing and the shape of the characters.
+
+*c) Character Set*
+Depending on the languages you use in your product, you need to make sure the typeface you choose entails all relevant characters. Since not every great typeface supports all languages, you need to think about a fall-back for languages that are not supported by said typeface.
+
+*d) Licensing*
+Typefaces are created by type designers and sold in licenses. If you want to use a typeface, make sure you buy the right licensing package that fits your needs. There are great typefaces out there that can be used for free, but make sure you check the licenses before you use them.
+
+
+#### 3. Get the details right
+Once you decided that you want to give your product a great typeface in order to amplify its character, you are now ready to get the details right.
+
+Make sure you learn (link: http://www.typogui.de text: the basics of how to type things properly), from apostrophes and quotes to dashes and brackets. It’s not that hard to learn and once you’ve mastered the basic rules, your product will already be amongst the 3% that stick out—(at least) from a typographic perspective.
+
+
+One last word about using the typeface of the operating system: There are a million and one reasons to use the default typeface of an operating system, especially when creating a native product on iOS or Android. However, when you’re building for more than one platform or you want to create a unique visual language that is more independent from the operating system, you should invest in your own typographic identity.
+
+Together with the colors, shapes and illustrations/photos you use in your product, a strong individual typeface makes a unique character of your product. It will help you to stick out in the market and make people recognize your product amongst millions of others. And more than that, putting emphasis on typography in your product gives you a tool to speak to the heads and the hearts of your users.
+
+----

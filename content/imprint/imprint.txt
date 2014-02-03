@@ -11,8 +11,8 @@ www.benedikt-lehnert.de
 
 #### Credits
 Typefaces used on this site:
-Adobe Garamond Pro by Adobe
-Lovely Entypo pictograms by Daniel Bruce — (link: http://www.entypo.com text: www.entypo.com)
+Adobe Garamond Pro served by (link: http://www.typekit.com text: Typekit)
+Lovely (link: http://www.entypo.com text: Entypo) pictograms by Daniel Bruce
 
 #### Liability for Content
 We make every effort to keep the information on our Web site current, but accept no liability whatsoever for the content provided. Pursuant to §7 par. 1 of TMG (German Tele-Media Act), the law limits our responsibility as a service provider to our own content on these Web pages.

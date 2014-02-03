@@ -70,9 +70,14 @@ img.about {
     border-radius: 6px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
 	font-weight: 400;
 	font-style: italic;
+}
+
+h3, h4, h5, h6 {
+	font-weight: 400;
+	color: #a3907c;
 }
 
 h1.logo, h1.logo a {
@@ -114,7 +119,7 @@ h2 {
 	font-size: 40px;
 	line-height: 1.05em;
 	color: #a3907c;
-	margin-bottom: 10px;
+	margin-bottom: 18px;
 	text-decoration: none;
 }
 
@@ -130,7 +135,7 @@ h2 a:hover {
 
 .blogarticle h2{
 	text-align: left;
-	margin-bottom: 10px;
+	margin-bottom: 30px;
 }
 
 .article h3 {
@@ -142,7 +147,7 @@ h2 a:hover {
 .content article h4 {
 	font-size: 28px;
 	margin-top: 54px;
-	margin-bottom: 3px;
+	margin-bottom: 5px;
 }
 
 .content article h5 {
@@ -361,7 +366,7 @@ h2 a:hover {
     }
     
     h2 {
-    	font-size: 30px;
+    	font-size: 36px;
     	line-height: 1.1em;
     	color: #a3907c;
     	margin-bottom: 14px;
