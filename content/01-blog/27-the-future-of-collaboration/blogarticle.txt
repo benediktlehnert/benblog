@@ -1,0 +1,34 @@
+Title: The future of collaboration
+----
+Date: 01.10.2014
+----
+Text:
+
+A few weeks back, (link: https://twitter.com/alexschiff text: Alex Schiff), co-founder and CEO of Fetchnotes asked me if I wanted to participate in what he called a “virtual panel discussion” on the future of collaboration. In his (link: https://medium.com/@alexschiff/collaboration-3-0-7010281f1426 text: Medium post) “Collaboration 3.0” he brought together the thoughts, insights and ideas of a nice group of people. However, Alex couldn’t publish our responses in full length, so I decided to publish mine here.
+
+> As you look ahead into the next wave of collaboration, what are the trends forming today that you think will redefine the tools people use to work together tomorrow? 
+
+#### The old world
+As we embarked into the digital age, a ton of highly complex software has been created mostly covered under the label of “business” or “productivity” software, creating a nauseating feeling in everyone who ever had to work with such tools. But more than that, those productivity tools became silos that don’t allow people to exchange data or combine different tools they use, which leads to the fact that the more you use certain tools, the more effort you need to put in to actually be productive.
+
+The age of remote work, bring your own device and decentralized teams the way people work together is changing fundamentally. This change is not only affecting our work, but our entire life.
+
+#### Real-time infrastructure 
+In today’s connected multi-device world we have immediate access to information, knowledge and the people around us, no matter where we are. From chat software and collaborative writing to task management and file sharing—Life is real-time, and so are finally the tools we are using. Real-time connections and updates are the infrastructure that power people’s work.
+
+#### Integration and Automation
+Tools that create data and/or usage silos are dead. Future tools need to be open for integrations and exchange in order to reduce effort for the users. It just makes sense that I can create to-dos right out of my email client and attach various files I have stored in my cloud storage. 
+
+Once services are integrated with others we can start automating a lot of tasks we still do manually. You don’t want to look up the location for your last meeting, or find the phone number of your colleague in your address book. Instead, integrated and automated services could do that job for you and save you valuable time that you can use to get stuff done.
+
+#### Context and Prediction
+One of the most interesting trends in software overall is backend intelligence. This will be the next big leap in human-machine interface. The way we interact with our tools hasn’t really changed since the invention of the computer. It all got a bit easier and more elegant, but the machine still only does, what the users tells it to do.
+
+Especially when it comes to productivity, context-awareness and predictive algorithms could fundamentally change the way we work and collaborate. A lot of the things we do manually, such as researching information or replying to most emails could be automated based on our personal behavior patterns or preferences. The tools we use could also react to the context the users is in. A simple example: Switch off work email notifications when I come home and only notify me if my direct reports are sending a message with really urgent content. 
+
+#### Simplicity and Fun
+Simplicity and fun aren’t new, but when it comes to the future of productivity tools, they are essential. When people speak about consumerization of business software, they actually often mean a simple and fun to use product experience. 
+
+Productivity depends on focus and motivation. Both factors that don’t exist in a lot of overloaded tools. Work and collaboration don’t have to be hard or complicated. In fact, the easier the higher our motivation to do something. And the more fun, the more likely we are to continue with or repeat what we are doing.
+
+----

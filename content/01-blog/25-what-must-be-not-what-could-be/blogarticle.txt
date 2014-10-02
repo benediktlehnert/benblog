@@ -1,0 +1,18 @@
+Title: What must be, not what could be
+----
+Date: 12.09.2014
+----
+Text:
+
+I had a conversation with one of our designers at Wunderlist. We spoke about a new feature he was working on and he was seeking advice on how to prioritize certain ideas over others.
+
+At one point my response was: “Don’t let your team get carried away in ‘what could be built’, but focus on ‘what must be built’.”
+
+Designing a product is exciting and will inevitably lead you to an incredible amount of “great ideas” surrounding what you could build. But as someone leading a design process, you have the difficult task to keep things on track—keep them focused.
+
+Then it comes down to the asking the right questions; drilling things down to what serves the essential purpose of your product and is in line with your most important business goal. Call it simplicity, priorities or focus—products succeed when user needs, business goals and execution are aligned.
+
+So, whenever you find yourself or your team saying “Yes, and we could build this!” or “Great! we could build that as well”, or you have a hard time deciding on what to do next—zoom out and start asking “What must be built?”.
+
+ 
+----

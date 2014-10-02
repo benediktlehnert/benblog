@@ -1,0 +1,23 @@
+Title: Kill the UX Designer
+----
+Date: 19.09.2014
+----
+Text:
+
+Today, I read this question on Designer News: “Where does a wanna-be UX designer begin?”
+
+It’s shows a fundamental misconception of a job and role that no one really understands, but which is essential in making a product or business successful. It’s a job title that is misunderstood and misused all the time. And as responsible designers, we are supposed to make things easier to understand. So, let’s all get over it, and kill the title “UX Designer” once and for all.
+
+UX means User Experience which, in turn, means *everything* a user (a human) experiences when interacting with your product or service. Everything. That means *everyone* in your company contributes to the user experience directly or indirectly. So long as you don’t work in an organization that is a dictatorship—and even then it’s questionable.
+
+Designers are problem solvers, using form and communication to connect humans with objects in the most intuitive way. In German there’s the word “Gestalter”, which is actually much more appropriate to use. It describes someone who “forms” or “shapes” things. That’s it.
+
+So, if you want to do such work and shape things, products or your organization, keep it simple and call yourself a Designer. Some of the best designers I’ve met never had any formal “design education” or even called themselves a “Designer”, but they sure did create fantastic user experiences. 
+
+For everyone else who need a more precise job title: add a word in front of “Designer” that actually describes what you are doing: e.g. UI Designer, Industrial Designer or Interaction Designer.
+
+With that said, if you want to become a UX designer, be happy, because you already are! If you don’t know where to start to become one, ask yourself how you can change your daily work in order to make your user’s life better. If you want to become a lead designer, make sure you ask these questions of the people you work with and help them make the right decisions.
+
+Whether you are an artist, engineer, designer, marketer, accountant or anything in between, your work contributes to the user experience. And if you are an employer who still uses this title, you are part of the problem.
+
+----
