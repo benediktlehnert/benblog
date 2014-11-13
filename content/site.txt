@@ -2,7 +2,7 @@ Title: Hi, I’m Ben.
 ----
 Author: Benedikt Lehnert
 ----
-Description: Hi, my name is Ben and I love making things simple. I design to improve lives. I am working with the amazing team at 6Wunderkinder in Berlin where I am in charge of product design and communications. I love photography in black and white, the sound of water and the smell of fabric softener. As a hobby, I co-created Watches for iPad.
+Description: Hi, my name is Benedikt Lehnert—but everybody calls me Ben—and I strive to make technology more human. I am the Chief Design Officer at Wunderlist. We help people get stuff done and keep their life in sync. I wrote Typoguide—A Pocket Guide to Master Every Day’s Typographic Adventures—You can buy the book or check out the website at www.typogui.de
 
 Follow me on Twitter, drop me a line or let’s meet for a coffee.
 ----
