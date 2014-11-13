@@ -1,0 +1,43 @@
+Title: Productivity is full of emotions
+----
+Date: 13.11.2014
+----
+Text:
+
+Yesterday, The Verge published (link: http://www.theverge.com/2014/11/11/7193621/microsoft-has-a-strange-obsession-with-productivity text: “Microsoft has a strange obsession with productivity”), and in this article there are a few quotes that resonated with me and the work we do on Wunderlist.
+
+> “Problem is, it’s not a sexy word. It might not be the right one to sell Microsoft’s products, even if productivity is what the company does best (Office, for instance). Most people don’t wake up in the morning with an overpowering desire or need to be more productive. Productivity implies work. It’s a management philosophy, the desire to get more out of their workforce, the stuff of industrial revolutions. You don’t buy a fitness band to "be more productive" in the same way that you wouldn’t buy a more productive cereal to eat at breakfast.”
+
+And it continues:
+
+> “Consumers use products because they’re simple, convenient, and sometimes because there’s an element of emotional attachment or trust to a particular brand or company. Productivity, meanwhile, is emotionless — it’s an idea that evokes feelings of being controlled by your boss or tied to an assembly line, rather than something that delights.”
+
+#### Productivity is full of emotions
+The term "Productivity" as a category for software products is extremely broad. It is often used to describe tools that help people get stuff done and organize their lives. That definition alone shows that this is not an emotionless topic, because productivity software touches people at almost every moment of their daily lives. More important, it helps them accomplish things that matter to them individually.
+
+From our experience building Wunderlist, productivity might even be one of the most emotional product categories, and you can definitely build productivity tools that people fall in love with. It has just been approached from the wrong angle for decades. 
+
+Productivity always starts with intention. Something you must or want to do. Unfortunately, for much too long, productivity software was solely focused on the “must do” part. For decades, people had to use boring and ugly project management software to organize all the stuff they had to do in order to make their bosses happy. However, when they got home, they wrote down a list of things to buy from the grocery store on a piece of paper. So, the emotions people connected with productivity software were negative and related to work, specifically the feeling of “having to do” a bunch of stuff, that was more a burden than anything else. In addition to that, the complicated tools we all had to use to get work done felt like a cold piece of technology decorated with an ugly facade of pixels. Neither engaging nor motivating.
+
+So, productivity software has never been emotionless. It's always been *full* of emotion. Negative emotion.
+
+#### Here’s how to change productivity for the better
+Things changed when people started to have better software and hardware at home than they had in the office. The app economy not only introduced beautiful and easy-to-use software, but put it at the fingertips of the mass market. It fundamentally changed the way people experience and perceive software. Suddenly, the software you have to operate in the office feels complicated, because you now know what it feels like to use simple, easy-to-use software. Software that felt ok before, because you were used to it, starts to feel outdated, slow and out of place.
+
+So, how can we build better, more human productivity software?
+
+It starts with a change in perspective. Productivity software has nothing to do with work, and everything to do with helping people to reach a goal. People don’t want to organize their to-dos; They want to make their project a success and get recognition as an individual or within their organization. 
+
+#### Fun is not the enemy of work
+We also need to stop reducing productivity to work only. While we spend quite some time in offices, we want to make the rest of our day count as well. People don’t want to write down grocery lists; They want to cook a nice dinner for friends. People don’t want to spend hours researching hotels; They want to spend an unforgettable time with a loved one in their favorite city.
+
+For all these things, people don’t want to use complicated software. The effort we need to invest to get stuff done is already enough. So, we don’t want to spend time fiddling with apps on our computer, tablets and phones. Especially established business software needs to evolve drastically towards simple, focused and modern workflows.
+
+The most fundamental paradigm shift towards *human* productivity software is our perception of the product itself. While most people still think of productivity software as a tool, we need to start thinking of productivity software as a helpful friend. A service that makes a note of what you want to do, and assists you in the best possible in order reduce your own effort.
+
+#### Why Microsoft is so “obsessed” with productivity
+Now, in Microsoft’s case it makes a lot of sense to make this new take on productivity the core of their business strategy. With more than 1 billion Windows and Office users, mostly still using old productivity software they own the majority of the market. But as the market leader, Microsoft also needs to reinvent itself to sustain their success. Thanks to Cortana, Modern UI and especially the XBox, Microsoft built a network of great technology that can enable a productivity service that almost feels like it reads your mind. Simple things, like checking your Outlook calendar and making sure you have enough spare time between your meetings—just like an assistant would do it—to doing some research on Bing, so it’s easier for you to prepare your next Powerpoint presentation. Or imagine you walk into your living room and tell Cortana—which is running on your Xbox and always on—some things that you need to get from the grocery store, that will then get delivered to your house the next day.
+
+If we approach productivity from this perspective, it suddenly feels a lot less like work and could actually leave you with the most positive emotion of all: The satisfaction of accomplishment.
+
+----

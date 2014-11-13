@@ -1,4 +1,16 @@
 @font-face {
+font-family: 'BrixSansBlack';
+src: url('2BBE48_1_0.eot');
+src: url('2BBE48_1_0.eot?#iefix') format('embedded-opentype'),url('2BBE48_1_0.woff') format('woff'),url('2BBE48_1_0.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'BrixSansMedium';
+src: url('2BBE48_9_0.eot');
+src: url('2BBE48_9_0.eot?#iefix') format('embedded-opentype'),url('2BBE48_9_0.woff') format('woff'),url('2BBE48_9_0.ttf') format('truetype');
+}
+
+@font-face {
 font-family: entypo;
 src: url('entypo.ttf'),
      url('entypo.eot'); /* IE9 */
@@ -26,7 +38,7 @@ body {
 .color {
 	width: 100%;
 	height: 5px;
-	background-color: #a3907c;
+	background-color: #93bec6;
 	position: fixed;
 }
 
@@ -40,7 +52,7 @@ body {
 }
 
 .content article p {
-	margin-bottom: 10px;
+	margin-bottom: 30px;
 }
 
 img {
@@ -70,17 +82,18 @@ img.about {
     border-radius: 6px;
 }
 
-h1, h2 {
-	font-weight: 400;
-	font-style: italic;
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'BrixSansBlack';
+	font-weight: normal;
+	font-style: normal;
 }
 
 h3, h4, h5, h6 {
-	font-weight: 400;
-	color: #a3907c;
+	color: #93bec6;
 }
 
 h1.logo, h1.logo a {
+	font-family: 'BrixSansBlack';
 	font-size: 36px;
 	font-style: normal;
 	color: #354047;
@@ -97,7 +110,7 @@ h1.logo, h1.logo a {
 .nav h1 a, a:visited{
 	font-size: 20px;
 	font-style: normal;
-	color: #a3907c;
+	color: #93bec6;
 	text-decoration: none;
 }
 
@@ -109,22 +122,22 @@ h1.logo, h1.logo a {
 .content h1 {
 	font-size: 40px;
 	line-height: 1.05em;
-	text-align: center;
-	color: #a3907c;
+	text-align: left;
+	color: #93bec6;
 	margin-bottom: 10px;
 	text-decoration: none;
 }
 
 h2 {
-	font-size: 40px;
-	line-height: 1.05em;
-	color: #a3907c;
-	margin-bottom: 18px;
+	font-size: 44px;
+	line-height: 1.1em;
+	color: #93bec6;
+	margin-bottom: 14px;
 	text-decoration: none;
 }
 
 h2 a, a:visited {
-	color: #a3907c;
+	color: #93bec6;
 	text-decoration: none;
 }
 
@@ -138,16 +151,39 @@ h2 a:hover {
 	margin-bottom: 30px;
 }
 
+.article {
+	margin-bottom: 54px;
+}
+
 .article h3 {
 	font-size: 28px;
-	color: #a3907c;
+	color: #93bec6;
 	margin-bottom: 3px;
+}
+
+.article h4 {
+	font-size: 26px;
+	line-height: 34px;
+}
+
+.article p{
+	margin-bottom: 30px !important;
+}
+
+.article a, a:visited {
+	color: #93bec6;
+	text-decoration: none;
+}
+
+.article a:hover {
+	color: #354047;
+	text-decoration: none;
 }
 
 .content article h4 {
 	font-size: 28px;
 	margin-top: 54px;
-	margin-bottom: 5px;
+	margin-bottom: 8px;
 }
 
 .content article h5 {
@@ -156,7 +192,7 @@ h2 a:hover {
 }
 
 .content a, a:visited {
-	color: #a3907c;
+	color: #93bec6;
 	text-decoration: none;
 } 
 
@@ -171,7 +207,7 @@ h2 a:hover {
 }
 
 .post {
-	border-bottom: 1px solid #d7dee3;
+	border-bottom: 1px solid #f3ecf4;
 	padding-bottom: 20px;
 	margin-bottom: 54px;
 
@@ -185,36 +221,13 @@ h2 a:hover {
 }
 
 .readmore {
-  color: #9da4a9;
-  text-decoration: none;
+  	font-family: 'BrixSansBlack';
+  	color: #9da4a9;
+  	text-decoration: none;
 }
 
 .artover {
 	margin-bottom: 0px;
-}
-
-.article {
-	margin-bottom: 54px;
-}
-
-.article h4 {
-	font-size: 26px;
-	font-weight: 400;
-	line-height: 38px;
-}
-
-.article p{
-	margin-bottom: 30px !important;
-}
-
-.article a, a:visited {
-	color: #a3907c;
-	text-decoration: none;
-}
-
-.article a:hover {
-	color: #354047;
-	text-decoration: none;
 }
 
 .social {
@@ -246,8 +259,8 @@ h2 a:hover {
 }
 
 .pagination {
+	font-family: 'BrixSansBlack';
 	font-size: 30px;
-	font-style: italic;
 	color: #9da4a9;
 	text-align: center;
 	margin-top: -20px;
@@ -259,10 +272,12 @@ h2 a:hover {
   }
   
 .contact {
+	font-size: 14px;
+	font-style: italic;
 	border-top: 1px solid #d7dee3;
-	margin-top: 20px;
+	margin-top: 30px;
 	margin-bottom: 30px;
-	padding-top: 15px;
+	padding-top: 30px;
 	text-align: center;
 }
 
@@ -278,7 +293,7 @@ h2 a:hover {
 }
 
 .contact a {
-	color: #d7dee3;
+	color: #354047;
 }
 
 .contact a:hover {
@@ -320,12 +335,13 @@ h2 a:hover {
   		border-radius: 50px;
   	}
   	
-  	.h1.logo {
-    	margin: 20px !important;
+  	.h1.logo, h1.logo a {
+  		font-size: 24px;
+    	margin: 0px;
   	}
   	
   	.nav {
-  		margin-top: -24px;
+  		margin-top: -27px;
   		margin-left: 15px;
   		margin-bottom: 35px;
   		float: right;		
@@ -335,7 +351,7 @@ h2 a:hover {
   		font-size: 16px;
   		font-weight: 400;
   		font-style: normal;
-  		color: #a3907c;
+  		color: #93bec6;
   		text-decoration: none;
   	}
   	
@@ -347,7 +363,7 @@ h2 a:hover {
   	.content h1 {
   		font-size: 30px;
   		line-height: 1.1em;
-  		color: #a3907c;
+  		color: #93bec6;
   		margin-bottom: 14px;
   		text-decoration: none;
   	}
@@ -362,20 +378,20 @@ h2 a:hover {
     }
     
     .content article p {
-    	margin-bottom: 10px;
+    	margin-bottom: 30px;
     }
     
     h2 {
-    	font-size: 36px;
+    	font-size: 40px;
     	line-height: 1.1em;
-    	color: #a3907c;
+    	color: #93bec6;
     	margin-bottom: 14px;
     	text-decoration: none;
     	width: 100%;
     }
     
     h2 a, a:visited {
-    	color: #a3907c;
+    	color: #93bec6;
     	text-decoration: none;
     }
     
@@ -392,12 +408,12 @@ h2 a:hover {
     
     .article h3 {
     	font-size: 28px;
-    	color: #a3907c;
+    	color: #93bec6;
     	margin-bottom: 3px;
     }
     
     .post {
-    	border-bottom: 1px solid #d7dee3;
+    	border-bottom: 1px solid #f3ecf4;
     	margin-bottom: 54px;
     
     }
@@ -419,7 +435,7 @@ h2 a:hover {
     
     .article strong {
     	font-size: 26px;
-    	font-weight: 400;
+    	font-weight: normal;
     	line-height: 38px;
     }
     
@@ -444,9 +460,6 @@ h2 a:hover {
     
     .pagination {
     	font-size: 24px;
-    	font-style: italic;
-    	color: #9da4a9;
-    	text-align: center;
     	margin-top: -20px;
     	margin-bottom: 100px;
     }

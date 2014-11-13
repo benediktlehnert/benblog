@@ -1,0 +1,27 @@
+Title: The opening of a new tab
+----
+Date: 17.10.2014
+----
+Text:
+
+When I was wandering around the Wunderlist office two weeks ago, I observed several people opening new tabs in their browser. Some of them had these customized pages showing the weather, time, location or  wise phrases from an even wiser person. 
+
+I did a search, but couldn’t find any stats on how often people actually open a new tab in their browser, but I assumed it is somewhere around “a lot”. Opening a new tab seems like a very frequent action when people are in front of a computer. It’s also an action that doesn’t seem to cost people any cognitive energy. It feels natural to the situation while sitting in front of a screen with a browser open.
+
+All the custom pages I saw people using around the office looked pretty, but while showing some sort of real-time information, they felt very static and almost “dumb”. I thought “Why not build something more useful and more functional when you have the ability to add logic to the ‘new tab’ page?”
+
+There’s a beauty in the immediacy of pen and paper, which is still, believe it or not, the number one tool for people to get stuff done. No matter how hard software tries to eat the world.
+
+When you’re building a service that helps millions of people get stuff done, it’s not as easy of a job as one might think. Although everyone has stuff to do in their lives, not a lot of people feel the need to organize or even manage those things in a structured way—usually because it feels like “work”. One way to change that is making the tools more ubiquitous, bring them closer to the user and make using them feel effortless. 
+
+These observations stuck with me for a while. And while I wandered and brainstormed, one idea struck and excited me quite a bit: What if we would build a super lightweight version of Wunderlist right into the new tab page? 
+
+I coded a front-end prototype of what I had in mind. Thanks to (link: http://www.twitter.com/ilwcss text: Marvin) and (link: http://www.twitter.com/raymondmayjr text: Raymond), the prototype became functional very quickly, and the week after, we introduced (link: https://chrome.google.com/webstore/detail/wunderlist-new-tab/fgikemaeelgbhjnhnnahcpkjpafaeion text: Wunderlist New Tab) to the world.
+
+The purpose is simple. Whenever you have an idea you don’t want to forget or thought of something you want to do, it’s just a simple click or shortcut away to note it down. At the same time, whenever you open a new tab, you’re able to view all the other stuff you want or have to do—and check them off with a click.
+
+Three actions: new tab, add and complete. That’s probably the closest you can get to “grab a piece of paper, write, and check off”. Now, when you combine it with the power of the Wunderlist platform, everything you add to the New Tab will automatically sync across all your devices, no matter where you are.
+
+One thing myself and a lot of other people at Wunderlist spend a lot of time with is thinking about how we can bring the service even closer to people, make the interface even simpler and the interactions as immediate and natural as possible. I strongly feel New Tab has the sort of magic that could get us closer to this goal and that, more than anything, is what really excites me.
+
+----

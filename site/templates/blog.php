@@ -2,7 +2,7 @@
 
 <section class="content blog">
 
-  <?php $articles = $page->children()->visible()->flip()->paginate(3) ?>
+  <?php $articles = $page->children()->visible()->flip()->paginate(5) ?>
 
   <?php foreach($articles as $article): ?>
 

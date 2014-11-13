@@ -1,8 +1,8 @@
-Title: Legal notice.
+Title: Legal notice
 ----
 Text: 
 #### General information
-Copyright 2013 © Benedikt Lehnert
+Copyright 2014 © Benedikt Lehnert
 All rights reserved
 
 Benedikt Lehnert
@@ -11,6 +11,7 @@ www.benedikt-lehnert.de
 
 #### Credits
 Typefaces used on this site:
+Brix Sans by (link: http://www.hvdfonts.com text: HVD Fonts)
 Adobe Garamond Pro served by (link: http://www.typekit.com text: Typekit)
 Lovely (link: http://www.entypo.com text: Entypo) pictograms by Daniel Bruce
 
