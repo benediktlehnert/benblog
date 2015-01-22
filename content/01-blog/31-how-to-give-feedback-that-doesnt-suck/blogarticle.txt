@@ -1,0 +1,31 @@
+Title: How to give feedback that doesn’t suck
+----
+Date: 22.01.2015
+----
+Text:
+
+In my position, I’m no longer spending as much time designing things myself, but helping my design team and our product teams to succeed with the work they’re producing. These days, giving feedback is what I spend a big chunk of my time with.
+
+I’ve seen design feedback sessions go both uphill and crashing terribly downhill. With that, here are my 6 guidelines of how to give feedback that doesn’t suck.
+
+#### Help people succeed with their work
+Feedback is based on mutual respect. Any creative person, no matter which title, job or batch of achievements, needs feedback in order to adjust their process and improve their work, simply because the creative process isn’t linear. A good design process is based on constant iteration and thrives feedback from various perspectives. It’s the designer’s job to make informed decisions, and it’s the creative leaders job to help them on their way to successfully solving a given problem.
+
+#### Understand the goals 
+It’s easy to jump to a conclusion in the moment you see design work, be it a sketch, mockup or prototype. While intuition and first impression are important, it’s a very valuable exercise to first ask for the specific goals the designer(s) had in mind when coming up with their work. It allows you to control the first impulse and prevents you from making a wrong judgement.
+
+### Ask questions that lead to alternatives
+Remember, your job is to help designers succeed in finding the best solution to a problem. So, instead of simply pointing out things as wrong or problematic, start asking questions that point into new or different directions. An easy way to practice that is by asking “Have you tried…?” or “What if…?”. That’s usually less confronting and a lot more helpful.
+
+#### Good and bad is not the same as like and dislike
+While as a design leader part of your job is to establish a shared understanding of a consistent design and aesthetic, you need to free yourself from the idea that everything you like is good and what you dislike is bad. If you find that difficult, start practicing point two,otherwise you won’t be giving much valuable feedback.
+
+#### Talk about the positive *and* the negative
+One technique that can help you with the previous point is focusing on the positive and the negative. Highlight both the things that are good and the ones that are problematic or need some work. This not only creates a better emotional situation, but actually helps the designer to distinguish and identify the construction sites.
+
+#### Screw the sandwich tactic
+I’m not a big fan of the sandwich tactic (positive, negative, positive), simply because if feedback between two smart individuals is based on mutual respect, there’s no need to use a (frankly) very obvious rhetorical technique to gift wrap it. Follow point one to five, and there’s no longer a need for tactics.
+
+Learning how to give valuable feedback, both positive and negative, is a crucial skill for creative leaders. And although I try to follow these guidelines, there are times where I also fail. Giving good feedback is an endless learning process and takes constant practice.
+
+----
