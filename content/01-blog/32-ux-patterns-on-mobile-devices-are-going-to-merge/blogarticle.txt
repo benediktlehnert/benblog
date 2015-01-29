@@ -1,0 +1,19 @@
+Title: UX patterns on mobile devices are going to merge
+----
+Date: 29.01.2015
+----
+Text:
+
+As smartphones are turning from a geek gadget to a commodity, patterns for mobile user interfaces and interactions are going to get more unified across platforms and will eventually merge.
+
+(link: http://www.google.de/design/spec/material-design/introduction.html text: Material Design) didn’t introduce any fundamentally new ideas, but in a clever way Google created a collection of patterns, guidelines and themes from the fields of typography, graphic design and cognitive science that guarantee consistent interfaces across phones, tablets and desktop computers. 
+
+With Google apps on iOS featuring Material Design too, people will quickly experience those principles and aesthetics not only on Android. Even in Windows 10 with it’s new version Modern UI – which without a doubt was the most forward thinking mobile UX concept – we see UX principles adapting “backwards”, to match some of the core patterns of other mobile platforms. Not to mention (link: http://en.miui.com text: Xiaomi’s MiUI) which is set on top of Android, but take inspiration from all worlds.
+
+People don’t care about the technologies they use as much the experience they create at the end of the day, consumers want things to “just work”. That being said, people also don’t care about user interface guidelines on different platforms. What matters most to the user is that they easily find their way around. 
+
+For mobile devices, we’ve arrived at a point where the basic models for interactions and interfaces are established. Not because of the incredible taste of the designers that are working out the specific guidelines, but simply based on cognitive science and the way people use mobile devices today. The mental models of how to interact with software running on phones and tablets have been defined, and they are universal.
+
+When things become a commodity, it’s more important for designers to follow the user’s expectations than to radically redesign the mental models.
+
+----
